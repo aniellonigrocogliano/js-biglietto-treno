@@ -21,4 +21,4 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
   - [ ] Applicare eventuale sconto se minorenne 
   - [ ] Applicare eventuale sconto se over 65
 3. Output 
-  - [ ] Stampa della password in pagina 
+  - [ ] Stampa del costo del biglietto
