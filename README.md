@@ -13,12 +13,12 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 ## Svolgimento
 1. Raccolta dati:
-  - [ ] Chiedere quanti Km vuole percorrere
-  - [ ] Chiedere età del passeggero
-  - [ ] Creare la variabile per il costo al Km
+  - [x] Chiedere quanti Km vuole percorrere
+  - [x] Chiedere età del passeggero
+  - [x] Creare la variabile per il costo al Km
 2. Esecuzione logica:
-  - [ ] Calcolare costo biglietto intero
-  - [ ] Applicare eventuale sconto se minorenne 
-  - [ ] Applicare eventuale sconto se over 65
+  - [x] Calcolare costo biglietto intero
+  - [x] Applicare eventuale sconto se minorenne 
+  - [x] Applicare eventuale sconto se over 65
 3. Output 
-  - [ ] Stampa del costo del biglietto
+  - [x] Stampa del costo del biglietto
