@@ -46,4 +46,4 @@ document.getElementById("km").innerHTML = userKm;
 document.getElementById("prize").innerHTML = prize;
 document.getElementById("discountnumber").innerHTML = userDiscountNum;
 document.getElementById("discountprize").innerHTML = userDiscount;
-document.getElementById("userprize").innerHTML = userPrize;
+document.getElementById("userprize").innerHTML = userPrize; 
